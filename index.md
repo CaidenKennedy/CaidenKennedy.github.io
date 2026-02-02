@@ -1,13 +1,11 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Caiden Kennedy
 ---
-
-# Caiden Kennedy
 
 **Duke University Sophomore | Sociology & Education | Physical Education & Youth Development**
 
-I’m a Duke University student interested in education, youth development, and applied leadership. I enjoy working at the intersection of **physical education, student engagement, and community impact**, and I’m currently seeking opportunities that value teamwork, initiative, and learning by doing.
+I’m a Duke University Junior interested in education, youth development, and applied leadership. I enjoy working at the intersection of **physical education, student engagement, and community impact**, and I’m currently seeking opportunities that value teamwork, initiative, and learning by doing.
 
 ---
 
