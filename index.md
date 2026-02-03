@@ -3,67 +3,82 @@ layout: default
 title: Caiden Kennedy
 ---
 
-### Duke University Junior | Sociology & Education | K-6 Teaching License Candidate
-
-Motivated undergraduate with experience in education, youth development, customer service, and AI content development. Passionate about fostering engagement, supporting students, and applying strong communication, leadership, and problem-solving skills.
+Hi! I’m Caiden — a Duke University undergraduate studying Sociology with a minor in Education, pursuing a K–6 teaching license. I’m passionate about helping students grow, fostering engagement, and creating environments where learning is fun, inclusive, and meaningful. Outside of teaching, I explore AI content development, youth mentorship, and fitness coaching.  
 
 ---
 
-## Education
+## About Me
+
+I thrive at the intersection of education, technology, and personal development. From coaching middle school students on mindfulness and golf to teaching English in Spain, I love seeing people develop confidence, curiosity, and resilience.  
+
+I also have experience working with AI — creating, refining, and evaluating content — and in fitness, pursuing my NASM CPT certification. Across all my experiences, I focus on making meaningful impact, whether that’s mentoring students, improving AI outputs, or supporting communities.  
+
+---
+
+## Education & Certifications
 
 **Duke University, Durham, NC**  
-Bachelor of Arts in Sociology | Education Minor / K-6 Teaching License (In Progress)  
-Expected Graduation: May 2027 | GPA: 3.4  
+Bachelor of Arts in Sociology | Minor in Education | K–6 Teaching License Candidate  
+Expected Graduation: May 2027 | Cumulative GPA: 3.4  
+
+**Certifications**  
+- NASM Certified Personal Trainer (CPT) — In Progress  
 
 ---
 
-## Experience
+## Experience Highlights
 
-**English Language & Culture Instructor (Volunteer) — Our Lady of Mercy School, Granada, Spain** | Oct–Dec 2025  
-- Independently taught English and U.S. culture to Pre-K–1st and 6th grade students  
-- Designed interactive lesson plans and adapted instruction to a multilingual classroom  
-- Engaged students with play-based, conversation-focused, and experiential learning  
+**Golf Coach Intern – SwingPals, Durham, NC**  
+Supporting middle school students in developing mindfulness, emotional regulation, and leadership skills through golf. I help run activities, mentor students, and foster a positive, inclusive environment.
 
-**AI Trainer — Outlier (Remote)** | Apr 2024–Aug 2025  
-- Generated training data and refined algorithms to improve generative AI models  
-- Evaluated model performance and contributed to accuracy and efficiency improvements  
+**English Language & Culture Instructor – Our Lady of Mercy School, Granada, Spain**  
+Taught English and U.S. culture to Pre-K–1st and 6th grade students. Designed interactive, play-based lessons that engaged multilingual classrooms and built strong student-teacher connections.
 
-**Uber One Ambassador — Uber, Durham, NC (Hybrid)** | Feb–Aug 2025  
-- Drove community engagement and brand advocacy  
-- Managed event planning and content creation, strengthening partnerships and outreach  
+**AI & Tech Projects**  
+- **AI Editorial Intern – Underground Group:** Optimized AI-generated content for SEO, managed projects independently, worked directly with clients, and evaluated outputs for clarity, accuracy, and coherence.  
+- **AI Trainer – Outlier (Remote):** Generated and assessed training data to improve AI model performance and contributed to iterative improvements in model behavior.
 
-**Wilson Facilities Team Member — Duke University** | Aug 2024–May 2025  
-- Supported operations and safety of recreation facilities, including guest services and weight room guidance  
-- Provided excellent customer service and promoted a welcoming, inclusive environment  
+**Student Leadership & Mentorship**  
+- **VIP Ambassador & Advisory Board Member – Uber One:** Provided student-focused insights, conducted research, and offered recommendations to improve programs and engagement.  
+- **Facilities Team Member – Wilson Recreation Center, Duke University:** Supported daily operations, assisted patrons with equipment, and maintained a welcoming atmosphere.  
+- **Service-Learning Intern – E.K. Powe / George Watts Elementary:** Assisted K–5 classroom instruction, facilitated student engagement activities, and supported small-group learning.
 
-**Service-Learning Intern — E.K. Powe / George Watts Elementary, Durham, NC** | Aug 2024–May 2025 
-- Assisted with K-5 instruction and student engagement activities  
-- Supported teachers and communicated with staff, students, and families  
+**Customer Service & Teamwork**  
+- **Ice Cream & Café Associate – Caren’s Corner, Cambria, CA:** Delivered friendly service, handled payments, and maintained workspace.  
+- **Waiter – Black Cat Bistro, Cambria, CA:** Provided attentive service and contributed to a positive dining experience.
 
 ---
 
-## Projects & Leadership
+## Projects & Passions
 
-- Community outreach and stakeholder engagement through academic and volunteer projects  
-- Lesson planning and classroom support experiences for K-5 students  
-- AI content creation, editing, and evaluation projects  
+- Designing lessons and supporting K–5 classroom learning  
+- Community outreach and volunteer projects  
+- Creating, editing, and evaluating AI content for clarity and effectiveness  
+- Exploring educational theory and practical teaching methods  
+- Mentoring and coaching students in sports, mindfulness, and leadership
+
+---
+
+## Skills & Tools
+
+**Education & Mentorship:** Lesson planning • Student engagement • Youth development  
+**Communication & Leadership:** Teamwork • Outreach • Event coordination • Cross-cultural collaboration • Professional writing and editing  
+**Technical & Analytical:** Generative AI tools (ChatGPT and related systems) • AI content evaluation • Google Docs, Sheets, Excel • Data organization and review  
+**Additional Strengths:** Customer service • Problem-solving • Organization • Adaptability • Commitment to equity and inclusion  
 
 ---
 
-## Skills
+## Let’s Connect
 
-- **Education & Mentorship:** Lesson planning, classroom support, student engagement  
-- **Communication & Leadership:** Teamwork, outreach, event management, cross-cultural communication  
-- **Technical & Analytical:** AI content tools (ChatGPT, generative AI), Google Docs/Sheets, data evaluation  
-- **Other:** Customer service, adaptability, problem-solving, organization  
+I’m always open to collaborations, mentorship opportunities, or conversations about education, AI, or youth development. Reach out and say hi!
 
----
 
 ## Connect
 
 - [Resume]  
 - [LinkedIn](https://www.linkedin.com/in/caiden-kennedy/)  
-
+- [Email Me](mailto:caidenkennedy3@gmail.com) |
+- [Text or call] (805) 423-4807
 Feel free to reach out to learn more or connect!
 
 
