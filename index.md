@@ -28,6 +28,8 @@ Expected Graduation: May 2027 | Cumulative GPA: 3.4
 
 ## Experience Highlights
 
+**Teaching & Coaching**
+
 **Golf Coach Intern, SwingPals, Durham, NC**  
 Supporting middle school students in developing mindfulness, emotional regulation, and leadership skills through golf. I help run activities, mentor students, and foster a positive, inclusive environment.
 
