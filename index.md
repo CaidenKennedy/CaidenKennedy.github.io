@@ -61,8 +61,8 @@ Expected Graduation: May 2027 | GPA: 3.4
 
 ## Connect
 
-- 📄 [Resume]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/caiden-kennedy/)  
+- [Resume]  
+- [LinkedIn](https://www.linkedin.com/in/caiden-kennedy/)  
 
 Feel free to reach out to learn more or connect!
 
