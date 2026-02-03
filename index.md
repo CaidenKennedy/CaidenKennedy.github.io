@@ -21,9 +21,9 @@ I also have experience working with AI, creating, refining, and evaluating conte
 Bachelor of Arts in Sociology | Minor in Education | K–6 Teaching License Candidate  
 Expected Graduation: May 2027 | Cumulative GPA: 3.4  
 
-**Certifications**  
-- NASM Certified Personal Trainer (CPT), In Progress  
-- K-6 Teaching Licence, In Progress
+**Certifications**
+- NASM Certified Personal Trainer (CPT), In Progress
+- K-6 Teaching License, In Progress
 
 ## Experience Highlights
 
