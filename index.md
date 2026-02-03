@@ -23,17 +23,17 @@ Expected Graduation: May 2027 | Cumulative GPA: 3.4
 
 **Certifications**  
 - NASM Certified Personal Trainer (CPT), In Progress  
-
+- K-6 Teaching Licence, In Progress
 ---
 
 ## Experience Highlights
 
 **Teaching & Coaching**
 
-**Golf Coach Intern, SwingPals, Durham, NC**  
+- **Golf Coach Intern, SwingPals, Durham, NC**  
 Supporting middle school students in developing mindfulness, emotional regulation, and leadership skills through golf. I help run activities, mentor students, and foster a positive, inclusive environment.
 
-**English Language & Culture Instructor, Our Lady of Mercy School, Granada, Spain**  
+- **English Language & Culture Instructor, Our Lady of Mercy School, Granada, Spain**  
 Taught English and U.S. culture to Pre-K–1st and 6th grade students. Designed interactive, play-based lessons that engaged multilingual classrooms and built strong student-teacher connections.
 
 **AI & Tech Projects**  
@@ -80,7 +80,7 @@ I’m always open to collaborations, mentorship opportunities, or conversations 
 - [LinkedIn](https://www.linkedin.com/in/caiden-kennedy/)  
 - [Email Me](mailto:caidenkennedy3@gmail.com)  
 - [Text or Call](tel:+18054234807) 
-Feel free to reach out to learn more or connect!
+
 Feel free to reach out to learn more or connect!
 
 
