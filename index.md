@@ -1,54 +1,71 @@
 ---
+layout: default
 title: Caiden Kennedy
 ---
 
-**Duke University Sophomore | Sociology & Education | Physical Education & Youth Development**
+# Caiden Kennedy
 
-I’m a Duke University Junior interested in education, youth development, and applied leadership. I enjoy working at the intersection of **physical education, student engagement, and community impact**, and I’m currently seeking opportunities that value teamwork, initiative, and learning by doing.
+**Duke University Junior | Sociology & Education | K-6 Teaching License Candidate**  
+
+Motivated undergraduate with experience in education, youth development, customer service, and AI content development. Passionate about fostering engagement, supporting students, and applying strong communication, leadership, and problem-solving skills.
 
 ---
 
-## About Me
+## Education
 
-I’m a sophomore at Duke University studying **Sociology** with a strong interest in **education and physical education**. Through coursework, tutoring, and hands-on experiences in schools, I’ve developed a passion for creating **positive, inclusive learning environments** and helping students stay engaged—both academically and physically. I’m especially interested in roles related to education, youth programs, leadership development, and people-focused organizations.
+**Duke University, Durham, NC**  
+Bachelor of Arts in Sociology | Education Minor / K-6 Teaching License (In Progress)  
+Expected Graduation: May 2027 | GPA: 3.4  
 
 ---
 
 ## Experience
 
-**Tutor — E.K. Powe Elementary School** *Durham, NC*  
-- Work weekly with 3rd and 4th grade students in academic and enrichment settings  
-- Support student engagement through positive reinforcement and collaborative activities  
-- Observe and assist in physical education settings, focusing on inclusivity and participation  
+**English Language & Culture Instructor (Volunteer) — Our Lady of Mercy School, Granada, Spain** | Oct–Dec 2025  
+- Independently taught English and U.S. culture to Pre-K–1st and 6th grade students  
+- Designed interactive lesson plans and adapted instruction to a multilingual classroom  
+- Engaged students with play-based, conversation-focused, and experiential learning  
 
-**Student — Duke University** *Durham, NC*  
-- Coursework in sociology, education, and physical science  
-- Projects focused on student-centered learning, physical education, and youth development
+**AI Trainer — Outlier (Remote)** | Apr 2024–Aug 2025  
+- Generated training data and refined algorithms to improve generative AI models  
+- Evaluated model performance and contributed to accuracy and efficiency improvements  
+
+**Uber One Ambassador — Uber, Durham, NC (Hybrid)** | Feb–Aug 2025  
+- Drove community engagement and brand advocacy  
+- Managed event planning and content creation, strengthening partnerships and outreach  
+
+**Wilson Facilities Team Member — Duke University** | Aug 2024–May 2025  
+- Supported operations and safety of recreation facilities, including guest services and weight room guidance  
+- Provided excellent customer service and promoted a welcoming, inclusive environment  
+
+**Service-Learning Intern — E.K. Powe / George Watts Elementary, Durham, NC** | Aug 2024–May 2025 
+- Assisted with K-5 instruction and student engagement activities  
+- Supported teachers and communicated with staff, students, and families  
+
+---
+
+## Projects & Leadership
+
+- Community outreach and stakeholder engagement through academic and volunteer projects  
+- Lesson planning and classroom support experiences for K-5 students  
+- AI content creation, editing, and evaluation projects  
 
 ---
 
 ## Skills
 
-- Youth Mentorship & Tutoring  
-- Classroom & Student Engagement  
-- Team Leadership & Communication  
-- Google Sheets / Excel (Foundational Instruction)  
-- Time Management & Organization  
-- Public Speaking & Collaboration
+- **Education & Mentorship:** Lesson planning, classroom support, student engagement  
+- **Communication & Leadership:** Teamwork, outreach, event management, cross-cultural communication  
+- **Technical & Analytical:** AI content tools (ChatGPT, generative AI), Google Docs/Sheets, data evaluation  
+- **Other:** Customer service, adaptability, problem-solving, organization  
 
 ---
 
-## Projects & Interests
-
-- Research and coursework on the impact of **physical education on mental health and academic growth**  
-- Interest in **inclusive sports programs** and student wellness  
-- Experience creating simple digital content and presentations for academic projects
-
----
-
-## Let’s Connect
+## Connect
 
 - 📄 [Resume]  
 - 💼 [LinkedIn](https://www.linkedin.com/in/caiden-kennedy/)  
 
-Feel free to reach out if you’d like to connect or learn more about my experience.
+Feel free to reach out to learn more or connect!
+
+
