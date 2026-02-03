@@ -24,7 +24,6 @@ Expected Graduation: May 2027 | Cumulative GPA: 3.4
 **Certifications**  
 - NASM Certified Personal Trainer (CPT), In Progress  
 - K-6 Teaching Licence, In Progress
----
 
 ## Experience Highlights
 
