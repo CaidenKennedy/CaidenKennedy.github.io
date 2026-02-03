@@ -3,7 +3,7 @@ layout: default
 title: Caiden Kennedy
 ---
 
-**Duke University Junior | Sociology & Education | K-6 Teaching License Candidate**  
+### Duke University Junior | Sociology & Education | K-6 Teaching License Candidate
 
 Motivated undergraduate with experience in education, youth development, customer service, and AI content development. Passionate about fostering engagement, supporting students, and applying strong communication, leadership, and problem-solving skills.
 
